@@ -105,3 +105,6 @@ dist
 
 #eleventy
 _site/
+
+about.md
+index.md 
