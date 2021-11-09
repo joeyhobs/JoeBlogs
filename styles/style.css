@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    max-width: 50%;
+    margin: 0 auto;
+}
+nav ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul li {
+    padding: 5px;
+    list-style-type: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
