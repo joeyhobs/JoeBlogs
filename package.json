@@ -19,5 +19,8 @@
   "homepage": "https://github.com/joeyhobs/JoeBlogs#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1"
+  },
+  "dependencies": {
+    "jstransformer-markdown-it": "^2.1.0"
   }
 }
